@@ -1,2 +1,1 @@
-# computer_vision_exercises
-university exercise
+Computer vision exercises on OpenCV(c++)
